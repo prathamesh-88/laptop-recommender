@@ -1,0 +1,206 @@
+,laptop_name,ratings_5max,sentence
+0,Notebook 14-df0008nx,0.0,HP 14.0 Intel Celeron N4000 Intel HD Graphics 600 64 GB eMMC 1259.0 1259.0
+1,IdeaPad 330S-14IKB,3.3,Lenovo 14.0 Intel Core i5-8250U Intel UHD Graphics 620 1 TB HDD 1849.0 2099.0
+2,MateBook D Volta,0.0,Huawei 14.0 Intel Core i5-8250U NVIDIA GeForce MX150 2 GB 256 GB SSD 2999.0 3799.0
+3,Inspiron 15 3567,0.0,Dell 15.6 Intel Core i3-7020U Intel HD Graphics 620 1 TB HDD 1849.0 1849.0
+4,VivoBook 15 X510UR,0.0,Asus 15.6 Intel Core i7-8550U NVIDIA GeForce 930MX 2 GB 1 TB HDD 2499.0 3149.0
+5,Vostro 5471,3.8,Dell 14.0 Intel Core i7-8550U AMD Radeon 530 4 GB 128 GB SSD/1 TB HDD 3799.0 3799.0
+6,MacBook Air (Retina),4.0,Apple 13.3 Intel Core i5 Dual Core Intel UHD Graphics 617 128 GB PCIe SSD 4649.0 5199.0
+7,MateBook D,4.4,Huawei 15.6 Intel Core i5-8250U NVIDIA GeForce MX150 2 GB 128 GB SSD/1 TB HDD 2449.0 2799.0
+8,MateBook X Pro,0.0,Huawei 13.88 Intel Core i5-8250U NVIDIA GeForce MX150 2 GB 256 GB NVMe M.2 SSD 4999.0 5999.0
+9,14-cf0007nx,0.0,HP 14.0 Intel Core i5-8250U AMD Radeon 530 2 GB 16 GB Optane /1 TB HDD 2629.0 2629.0
+10,15-db0001nx,0.0,HP 15.6 AMD A9-9425 AMD Radeon R5 1 TB HDD 1999.0 1999.0
+11,Swift 5,0.0,Acer 14.0 Intel Core i7-8565U Intel GMA HD 512 GB SSD 4499.0 5999.0
+12,MacBook Air,0.0,Apple 13.3 Intel Core i5 Dual Core Intel HD Graphics 6000 128 GB PCIe Flash 3399.0 4499.0
+13,Swift 5 SF514-52TP-8933,0.0,Acer 14.0 Intel Core i7-8550U Intel UHD Graphics 620 512 GB SSD 4899.0 5999.0
+14,MacBook Pro (Retina + Touch Bar),0.0,Apple 15.4 Intel Core i7 6 Core Radeon Pro 555X GDDR5 4 GB 256 GB SSD 9099.0 10199.0
+15,Swift 3 SF314-52G,0.0,Acer 14.0 Intel Core i7-8550U NVIDIA GeForce MX150 2 GB 512 GB SSD 3399.0 4399.0
+16,MacBook Pro (Retina + Touch Bar),4.4,Apple 13.3 Intel Core i5 Quad Core Intel Iris Plus Graphics 655 512 GB SSD 7599.0 8499.0
+17,MacBook Pro (Retina + Touch Bar),4.3,Apple 13.3 Intel Core i5 Quad Core Intel Iris Plus Graphics 655 256 GB SSD 6969.0 7769.0
+18,MateBook 13,4.1,Huawei 13.0 Intel Core i7-8565U NVIDIA GeForce MX150 2 GB 512 GB SSD 4999.0 4999.0
+19,MacBook Air (Retina),3.9,Apple 13.3 Intel Core i5 Dual Core Intel UHD Graphics 617 256 GB PCIe SSD 5399.0 6099.0
+20,XPS 13 9380,4.4,Dell 13.3 Intel Core i5-8265U Intel UHD Graphics 620 256 GB PCIe NVMe M.2 SSD 4699.0 5399.0
+21,Pavilion 13-an0001nx,0.0,HP 13.3 Intel Core i7-8565U Intel UHD Graphics 620 256 GB PCIe NVMe M.2 SSD 3299.0 3999.0
+22,MacBook Air (Retina),4.0,Apple 13.3 Intel Core i5 Dual Core Intel UHD Graphics 617 256 GB PCIe SSD 5449.0 6099.0
+23,MacBook Air (Retina),3.9,Apple 13.3 Intel Core i5 Dual Core Intel UHD Graphics 617 256 GB PCIe SSD 5449.0 6099.0
+24,Pavilion 14-ce0001nx,0.0,HP 14.0 Intel Core i7-8550U NVIDIA GeForce MX150 4 GB 256 GB M.2 SSD/1 TB HDD 3599.0 4199.0
+25,MacBook Air (Retina),3.9,Apple 13.3 Intel Core i5 Dual Core Intel UHD Graphics 617 128 GB PCIe SSD 4599.0 5199.0
+26,Pavilion 14-ce0000nx,5.0,HP 14.0 Intel Core i7-8550U NVIDIA GeForce MX150 4 GB 256 GB M.2 SSD/1 TB HDD 3599.0 4199.0
+27,MacBook Air (Retina),3.9,Apple 13.3 Intel Core i5 Dual Core Intel UHD Graphics 617 128 GB PCIe SSD 4599.0 5199.0
+28,MateBook D Volta,0.0,Huawei 14.0 Intel Core i7-8550U NVIDIA GeForce MX150 2 GB 256 GB SSD 3599.0 4199.0
+29,ZenBook 14 UX433FN,0.0,Asus 14.0 Intel Core i7-8565U NVIDIA GeForce MX150 2 GB 512 GB SSD 4299.0 4899.0
+30,VivoBook 14 S430FN,0.0,Asus 14.0 Intel Core i5-8265U NVIDIA GeForce MX150 2 GB 128 GB M.2 SSD/1 TB HDD 2599.0 3199.0
+31,MateBook X Pro,0.0,Huawei 13.88 Intel Core i7-8550U NVIDIA GeForce MX150 2 GB 512 GB SSD 6399.0 6999.0
+32,Pavilion 14-ce2003nx,0.0,HP 14.0 Intel Core i7-8565U NVIDIA GeForce MX250 4 GB 128 GB M.2 SSD/1 TB HDD 3249.0 3799.0
+33,X543UB,0.0,Asus 15.6 Intel Core i7-8550U NVIDIA GeForce MX110 2 GB 1 TB HDD 2499.0 2999.0
+34,Pavilion 14-ce2000nx,0.0,HP 14.0 Intel Core i7-8565U NVIDIA GeForce MX250 4 GB 256 GB NVMe M.2 SSD/1 TB HDD 3799.0 4299.0
+35,Pavilion 14-ce2001nx,0.0,HP 14.0 Intel Core i7-8565U NVIDIA GeForce MX250 4 GB 256 GB NVMe M.2 SSD/1 TB HDD 3799.0 4299.0
+36,IdeaPad 330S-14IKB,0.0,Lenovo 14.0 Intel Core i5-8250U Intel UHD Graphics 620 256 GB PCIe Flash 1999.0 2499.0
+37,VivoBook S15 S530FN,0.0,Asus 15.6 Intel Core i7-8565U NVIDIA GeForce MX150 2 GB 128 GB M.2 SSD/1 TB HDD 3499.0 3999.0
+38,VivoBook 15 X512UB,0.0,Asus 15.6 Intel Core i5-8250U NVIDIA GeForce MX110 2 GB 128 GB M.2 SSD/1 TB HDD 2399.0 2899.0
+39,VivoBook 14 X412UB,0.0,Asus 14.0 Intel Core i5-8250U NVIDIA GeForce MX110 2 GB 1 TB HDD 2299.0 2799.0
+40,X507UB,3.6,Asus 15.6 Intel Core i5-8250U NVIDIA GeForce MX110 2 GB 1 TB HDD 1999.0 2449.0
+41,VivoBook 14 X412FJ,0.0,Asus 14.0 Intel Core i5-8265U NVIDIA GeForce MX230 2 GB 128 GB SSD/1 TB HDD 2649.0 3099.0
+42,MacBook,5.0,Apple 12.0 Intel Core M3 Intel HD Graphics 615 256 GB SSD 5269.0 5669.0
+43,MateBook D,4.0,Huawei 15.6 Intel Core i7-8550U NVIDIA GeForce MX150 2 GB 128 GB SSD/1 TB HDD 2899.0 3299.0
+44,MateBook D,4.4,Huawei 15.6 Intel Core i7-8550U NVIDIA GeForce MX150 2 GB 128 GB SSD/1 TB HDD 2899.0 3299.0
+45,MateBook 13,4.1,Huawei 13.0 Intel Core i7-8565U Intel UHD Graphics 620 512 GB SSD 3599.0 3999.0
+46,IdeaPad S530,0.0,Lenovo 13.3 Intel Core i7-8565U NVIDIA GeForce MX150 2 GB 512 GB NVMe M.2 SSD 3599.0 3999.0
+47,XPS 13 9380,4.4,Dell 13.3 Intel Core i7-8565U Intel UHD Graphics 620 512 GB PCIe NVMe M.2 SSD 5999.0 6399.0
+48,15-da1019nx,0.0,HP 15.6 Intel Core i7-8565U NVIDIA GeForce MX130 4 GB 1 TB HDD 2749.0 3149.0
+49,15-da1003nx,0.0,HP 15.6 Intel Core i7-8565U NVIDIA GeForce MX130 4 GB 1 TB HDD 2749.0 3149.0
+50,XPS 15 9570,0.0,Dell 15.6 Intel Core i7-8750H NVIDIA GeForce GTX 1050 Ti 4 GB 128 GB M.2 SSD/1 TB HDD 6099.0 6499.0
+51,VivoBook 15 X512UF,0.0,Asus 15.6 Intel Core i7-8550U NVIDIA GeForce MX130 2 GB 128 GB M.2 SSD/1 TB HDD 2899.0 3299.0
+52,Inspiron 15 3580,0.0,Dell 15.6 Intel Core i5-8265U AMD Radeon 520 2 GB 1 TB HDD 2299.0 2699.0
+53,Aspire 5 A515-52G-75XJ,0.0,Acer 15.6 Intel Core i7-8565U NVIDIA GeForce MX130 2 GB 1 TB HDD 2799.0 3199.0
+54,Inspiron 15 3580,0.0,Dell 15.6 Intel Core i7-8565U AMD Radeon 520 2 GB 1 TB HDD 2799.0 3149.0
+55,MateBook D,0.0,Huawei 15.6 Intel Core i5-8250U NVIDIA GeForce MX150 2 GB 128 GB SSD/1 TB HDD 2449.0 2799.0
+56,IdeaPad 330,3.6,Lenovo 15.6 Intel Core i7-8550U AMD Radeon 530 4 GB 128 GB M.2 SSD/1 TB HDD 2789.0 3099.0
+57,IdeaPad S340,0.0,Lenovo 15.6 Intel Core i5-8265U NVIDIA GeForce MX230 2 GB 128 GB M.2 SSD/1 TB HDD 2299.0 2599.0
+58,Pavilion 15-cs2003nx,0.0,HP 15.6 Intel Core i5-8265U NVIDIA GeForce MX130 2 GB 128 GB M.2 SSD/1 TB HDD 2699.0 2999.0
+59,Swift 3 314,0.0,Acer 14.0 Intel Core i7-8565U NVIDIA GeForce MX150 2 GB 128 GB SSD/1 TB HDD 3699.0 3999.0
+60,IdeaPad S340,4.2,Lenovo 14.0 Intel Core i3-8145U Intel GMA HD 1 TB HDD 1499.0 1779.0
+61,IdeaPad S340,4.2,Lenovo 14.0 Intel Core i3-8145U Intel GMA HD 1 TB HDD 1499.0 1779.0
+62,IdeaPad S145,0.0,Lenovo 15.6 Intel Celeron 4205U Intel GMA HD 500 GB HDD 1039.0 1299.0
+63,Inspiron 15 3580,0.0,Dell 15.6 Intel Core i5-8265U AMD Radeon 520 2 GB 1 TB HDD 2199.0 2449.0
+64,IdeaPad S340,4.2,Lenovo 14.0 Intel Core i5-8265U Intel GMA HD 1 TB HDD 1849.0 2099.0
+65,14-cf1001nx,5.0,HP 14.0 Intel Core i5-8265U AMD Radeon 530 2 GB 128 GB M.2 SSD/1 TB HDD 2549.0 2799.0
+66,15-da1005nx,0.0,HP 15.6 Intel Core i5-8265U Intel UHD Graphics 620 1 TB HDD 1949.0 2199.0
+67,IdeaPad S340,4.2,Lenovo 14.0 Intel Core i5-8265U Intel GMA HD 1 TB HDD 1849.0 2099.0
+68,IdeaPad 330-15IKBR,0.0,Lenovo 15.6 Intel Core i7-8550U AMD Radeon 530M 4 GB 2 TB HDD 2899.0 3149.0
+69,Inspiron 15 3581,0.0,Dell 15.6 Intel Core i3-7020U Intel HD Graphics 620 1 TB HDD 1699.0 1929.0
+70,Aspire 3 A315-53-52ZL,0.0,Acer 15.6 Intel Core i5-8250U Intel UHD Graphics 620 16 GB Optane /1 TB HDD 1979.0 2199.0
+71,Aspire 3 A315-53-341N,0.0,Acer 15.6 Intel Core i3-7020U Intel Graphics 620 1 TB HDD 1539.0 1749.0
+72,Aspire 3 A315-53G,0.0,Acer 15.6 Intel Core i5-8250U NVIDIA GeForce MX130 2 GB 1 TB HDD 2299.0 2499.0
+73,IdeaPad 330,0.0,Lenovo 15.6 Intel Celeron N4000 Intel UHD Graphics 600 1 TB HDD 1179.0 1379.0
+74,IdeaPad S130-14IGM,0.0,Lenovo 14.0 Intel Celeron N4000 Intel UHD Graphics 600 64 GB eMMC 899.0 1099.0
+75,IdeaPad 330S,0.0,Lenovo 15.6 Intel Core i5-8250U AMD Radeon 540 4 GB 2 TB HDD 2499.0 2699.0
+76,VivoBook 14 X420UA,0.0,Asus 14.0 Intel Core i3-7020U Intel HD Graphics 620 128 GB M.2 SSD 1499.0 1699.0
+77,X540UB,0.0,Asus 15.6 Intel Core i5-8250U NVIDIA GeForce MX110 2 GB 1 TB HDD 1799.0 1999.0
+78,MateBook 13,4.1,Huawei 13.0 Intel Core i5-8265U Intel UHD Graphics 620 256 GB SSD 2799.0 2999.0
+79,15-da1018nx,0.0,HP 15.6 Intel Core i3-8145U Intel UHD Graphics 620 1 TB HDD 1629.0 1799.0
+80,15-da1016nx,0.0,HP 15.6 Intel Core i3-8145U Intel UHD Graphics 620 1 TB HDD 1629.0 1799.0
+81,Aspire 3 A315-33-C6S9,3.7,Acer 15.6 Intel Celeron N3060 Intel GMA HD 500 GB HDD 1219.0 1369.0
+82,X543UB,0.0,Asus 15.6 Intel Core i5-8250U Intel UHD Graphics 620 1 TB HDD 1799.0 1949.0
+83,X543MA,0.0,Asus 15.6 Intel Celeron N4000 Intel UHD Graphics 600 1 TB HDD 1099.0 1249.0
+84,Aspire 3 A315-53,3.7,Acer 15.6 Intel Core i3-7020U Intel HD Graphics 620 1 TB HDD 1599.0 1749.0
+85,Inspiron 15 3582,0.0,Dell 15.6 Intel Celeron N4000 Intel UHD Graphics 600 500 GB HDD 1299.0 1399.0
+86,Inspiron 15 3573,0.0,Dell 15.6 Intel Celeron N4000 Intel GMA HD 500 GB HDD 1299.0 1399.0
+87,Inspiron 15 5584,3.7,Dell 15.6 Intel Core i7-8565U NVIDIA GeForce MX130 4 GB 256 GB SSD/1 TB HDD 3999.0 4099.0
+88,Swift 1 SF114-32-C4GB,0.0,Acer 14.0 Intel Celeron N4000 Intel HD Graphics 600 64 GB eMMC 1279.0 1349.0
+89,Aspire 3,0.0,Acer 15.6 Intel Core i3-7020U Intel HD Graphics 620 1 TB HDD 1679.0 1749.0
+90,Aspire 3 A315-54,0.0,Acer 15.6 Intel Core i5-8265U Intel UHD Graphics 620 1 TB HDD 1999.0 1999.0
+91,Aspire 3 A315-54,0.0,Acer 15.6 Intel Core i5-8265U Intel UHD Graphics 620 1 TB HDD 1999.0 1999.0
+92,Aspire 5 A515-54G,0.0,Acer 15.6 Intel Core i7-8565U NVIDIA GeForce MX250 2 GB 1 TB HDD 3099.0 3099.0
+93,Pavilion 15-cs2012nx,0.0,HP 15.6 Intel Core i7-8565U NVIDIA GeForce GTX 1050 3 GB 512 GB NVMe M.2 SSD 4549.0 4549.0
+94,ZenBook S13 UX392FN,0.0,Asus 13.9 Intel Core i7-8565U NVIDIA GeForce MX150 2 GB 1 TB PCIe NVMe M.2 SSD 6999.0 6999.0
+95,Pavilion 15-cs2011nx,0.0,HP 15.6 Intel Core i5-8265U NVIDIA GeForce MX130 2 GB 1 TB HDD 2799.0 2799.0
+96,MacBook Pro (Retina + Touch Bar),0.0,Apple 13.3 Intel Core i5 Quad Core Intel Iris Plus Graphics 645 128 GB SSD 5649.0 5649.0
+97,MacBook Pro (Retina + Touch Bar),0.0,Apple 13.3 Intel Core i5 Quad Core Intel Iris Plus Graphics 645 128 GB SSD 5649.0 5649.0
+98,MacBook Pro (Retina + Touch Bar),0.0,Apple 13.3 Intel Core i5 Quad Core Intel Iris Plus Graphics 645 256 GB SSD 6499.0 6499.0
+99,MacBook Air (Retina),3.9,Apple 13.3 Intel Core i5 Dual Core Intel UHD Graphics 617 128 GB PCIe SSD 4799.0 4799.0
+100,MacBook Air (Retina),3.9,Apple 13.3 Intel Core i5 Dual Core Intel UHD Graphics 617 128 GB PCIe SSD 4799.0 4799.0
+101,MacBook Air (Retina),0.0,Apple 13.3 Intel Core i5 Dual Core Intel UHD Graphics 617 128 GB PCIe SSD 4799.0 4799.0
+102,MacBook Air (Retina),0.0,Apple 13.3 Intel Core i5 Dual Core Intel UHD Graphics 617 256 GB PCIe SSD 5649.0 5649.0
+103,MacBook Air (Retina),0.0,Apple 13.3 Intel Core i5 Dual Core Intel UHD Graphics 617 256 GB PCIe SSD 5649.0 5649.0
+104,MacBook Air (Retina),0.0,Apple 13.3 Intel Core i5 Dual Core Intel UHD Graphics 617 256 GB PCIe SSD 5649.0 5649.0
+105,MacBook Pro (Retina + Touch Bar),0.0,Apple 13.3 Intel Core i5 Quad Core Intel Iris Plus Graphics 645 256 GB SSD 6499.0 6499.0
+106,Stream 14-cb003nx,0.0,HP 14.0 Intel Celeron N3060 Intel HD Graphics 400 32 GB eMMC 1049.0 1049.0
+107,MacBook Pro (Retina),4.9,Apple 13.3 Intel Core i5 Dual Core Intel Iris Plus Graphics 640 128 GB SSD 5669.0 5669.0
+108,Aspire 1 A114-31-C6WP,0.0,Acer 14.0 Intel Celeron N3350 Intel HD Graphics 505 64 GB eMMC 999.0 999.0
+109,Surface,0.0,Microsoft 13.5 Intel Core i5-7200U Intel HD Graphics 620 256 GB SSD 5799.0 5799.0
+110,ENVY 13-ah0006nx,0.0,HP 13.3 Intel Core i7-8550U NVIDIA GeForce MX150 2 GB 512 GB PCIe NVMe M.2 SSD 4939.0 4939.0
+111,Swift 1 SF114-32-C4GB,0.0,Acer 14.0 Intel Celeron N4000 Intel HD Graphics 600 64 GB eMMC 1349.0 1349.0
+112,Aspire 1 A114-31,0.0,Acer 14.0 Intel Celeron N3350 Intel HD Graphics 500 64 GB eMMC 999.0 999.0
+113,XPS 13 9370,0.0,Dell 13.3 Intel Core i7-8550U Intel UHD Graphics 620 1 TB SSD 8099.0 8099.0
+114,Vostro 5471,0.0,Dell 14.0 Intel Core i5-8250U AMD Radeon 530 2 GB 1 TB HDD 2949.0 2949.0
+115,Spectre 13-af001nx,0.0,HP 13.3 Intel Core i5-8250U Intel UHD Graphics 620 512 GB PCIe Flash 6299.0 6299.0
+116,XPS 13 9380,4.4,Dell 13.3 Intel Core i7-8565U Intel UHD Graphics 620 1 TB SSD 8099.0 8099.0
+117,ENVY 13-ah0001nx,4.0,HP 13.3 Intel Core i7-8550U NVIDIA GeForce MX150 2 GB 512 GB PCIe NVMe M.2 SSD 4939.0 4939.0
+118,MacBook Pro (Retina),4.6,Apple 13.3 Intel Core i5 Dual Core Intel Iris Plus Graphics 640 256 GB SSD 6499.0 6499.0
+119,IdeaPad 330-15IGM,3.9,Lenovo 15.6 Intel Celeron N4000 Intel HD Graphics 600 500 GB HDD 1359.0 1359.0
+120,ENVY 13-ah0002nx,0.0,HP 13.3 Intel Core i7-8550U NVIDIA GeForce MX150 2 GB 1 TB PCIe NVMe M.2 SSD 6299.0 6299.0
+121,XPS 13 9360,4.3,Dell 13.3 Intel Core i5-8250U Intel GMA HD 256 GB PCIe NVMe M.2 SSD 4899.0 4899.0
+122,Vostro 5471,3.8,Dell 14.0 Intel Core i5-8250U AMD Radeon 530 4 GB 128 GB SSD/1 TB HDD 3599.0 3599.0
+123,Inspiron 13 5370,0.0,Dell 13.3 Intel Core i5-8250U AMD Radeon 530 2 GB 256 GB SSD 3149.0 3149.0
+124,Aspire 3 A315-53,3.7,Acer 15.6 Intel Core i5-7200U NVIDIA GeForce MX130 2 GB 1 TB HDD 2249.0 2249.0
+125,Vostro 5481,0.0,Dell 14.0 Intel Core i5-8265U NVIDIA GeForce MX130 2 GB 128 GB PCIe NVMe M.2 SSD/1 TB HDD 3399.0 3399.0
+126,Vostro 5481,0.0,Dell 14.0 Intel Core i7-8565U NVIDIA GeForce MX130 2 GB 128 GB PCIe NVMe M.2 SSD/1 TB HDD 3899.0 3899.0
+127,Surface 2,4.1,Microsoft 13.5 Intel Core i5-8250U Intel UHD Graphics 620 128 GB SSD 4199.0 4199.0
+128,Surface 2,0.0,Microsoft 13.5 Intel Core i5-8250U Intel UHD Graphics 620 256 GB SSD 5399.0 5399.0
+129,Stream 14-cb104nx,0.0,HP 14.0 Intel Celeron N4000 Intel UHD Graphics 600 64 GB eMMC 1099.0 1099.0
+130,Inspiron 14 5480,0.0,Dell 14.0 Intel Core i7-8565U NVIDIA GeForce MX250 2 GB 128 GB SSD/1 TB HDD 4099.0 4099.0
+131,MacBook Pro (Retina + Touch Bar),0.0,Apple 15.4 Intel Core i7 6 Core Radeon Pro 555X GDDR5 4 GB 256 GB SSD 10799.0 10799.0
+132,MacBook Pro (Retina + Touch Bar),0.0,Apple 15.4 Intel Core i9 Radeon Pro 560X GDDR5 4 GB 512 GB SSD 12499.0 12499.0
+133,MacBook Pro (Retina + Touch Bar),0.0,Apple 13.3 Intel Core i5 Quad Core Intel Iris Plus Graphics 655 256 GB SSD 7999.0 7999.0
+134,MacBook Pro (Retina + Touch Bar),0.0,Apple 13.3 Intel Core i5 Quad Core Intel Iris Plus Graphics 655 512 GB SSD 8699.0 8699.0
+135,GT83VR 7RF Titan SLI,0.0,MSI 18.4 Intel Core i7-7820HK NVIDIA GeForce GTX 1080 8 GB SLI 256 GB SSD Super Raid /1 TB HDD 9071.0 9071.0
+136,ROG G752VS,0.0,Asus 17.3 Intel Core i7-7700HQ NVIDIA GeForce GTX 1070 8 GB 256 GB SSD/1 TB HDD 8189.0 8189.0
+137,Predator 17 GX791 78ND,0.0,Acer 17.3 Intel Core i7-6700HQ NVIDIA GeForce GTX 980M 8 GB 256 GB SSD/1 TB HDD 7507.0 7507.0
+138,MacBook Pro (Retina),0.0,Apple 15.4 Intel Core i7 Quad Core AMD Radeon R9-M370X 2 GB 512 GB SSD 6824.0 6824.0
+139,Alienware 15,3.7,Dell 15.6 Intel Core i7-7820HK NVIDIA GeForce GTX 1080 8 GB 256 GB SSD/1 TB HDD 6688.0 6688.0
+140,XPS 15,0.0,Dell 15.6 Intel Core i7-7700HQ NVIDIA GeForce GTX 1050 4 GB 1 TB HDD 6483.0 6483.0
+141,MacBook Pro (Retina + Touch Bar),4.6,Apple 15.4 Intel Core i7 Quad Core Radeon Pro 555 GDDR5 2 GB 256 GB SSD 7679.0 7679.0
+142,ENVY 13-ab002nx,0.0,HP 13.3 Intel Core i7-7500U Intel HD Graphics 620 1 TB PCIe NVMe M.2 SSD 4249.0 4249.0
+143,ZenBook UX433FN,4.4,Asus 14.0 Intel Core i7-8565U NVIDIA GeForce MX150 2 GB 512 GB SSD 3799.0 4999.0
+144,MacBook Pro (Retina + Touch Bar),4.4,Apple 15.4 Intel Core i7 6 Core Radeon Pro 560X GDDR5 4 GB 512 GB SSD 10699.0 11899.0
+145,ENVY 13-ad002nx,4.1,HP 13.3 Intel Core i7-7500U Intel Graphics 620 512 GB PCIe NVMe M.2 SSD 3539.0 3539.0
+146,MacBook,5.0,Apple 12.0 Intel Core M3 Intel HD Graphics 615 256 GB SSD 4669.0 5669.0
+147,Pavilion 15-cs0006nx,3.9,HP 15.6 Intel Core i7-8550U NVIDIA GeForce MX150 4 GB 128 GB M.2 SSD/1 TB HDD 2979.0 3779.0
+148,VivoBook 15 X510UF,0.0,Asus 15.6 Intel Core i7-8550U NVIDIA GeForce MX130 2 GB 128 GB M.2 SSD/1 TB HDD 2599.0 3299.0
+149,VivoBook S430,0.0,Asus 14.0 Intel Core i5-8250U NVIDIA GeForce MX130 2 GB 256 GB M.2 SSD/1 TB HDD 2499.0 3199.0
+150,Pavilion 15-cs0001nx,0.0,HP 15.6 Intel Core i5-8250U NVIDIA GeForce MX130 2 GB 16 GB Optane /1 TB HDD 2409.0 3049.0
+151,Pavilion 15-cs0000nx,0.0,HP 15.6 Intel Core i5-8250U NVIDIA GeForce MX130 2 GB 16 GB Optane /1 TB HDD 2409.0 3049.0
+152,Swift 3 SF314-54G-87HB,0.0,Acer 14.0 Intel Core i7-8550U NVIDIA GeForce MX150 2 GB 1 TB HDD 3399.0 3899.0
+153,VivoBook 15 X507UB,0.0,Asus 15.6 Intel Core i5-8250U NVIDIA GeForce MX110 2 GB 128 GB SSD/1 TB HDD 2099.0 2599.0
+154,15-bs150nx,0.0,HP 15.6 Intel Core i3-5005U Intel GMA HD 500 GB HDD 1199.0 1199.0
+155,Inspiron 3567,0.0,Dell 15.6 Intel Core i3-6006U Intel GMA HD 1 TB HDD 1429.0 1429.0
+156,MacBook Pro (Retina),4.6,Apple 13.3 Intel Core i5 Dual Core Intel Iris Plus Graphics 640 128 GB SSD 5269.0 5669.0
+157,IdeaPad 330S-15IKB,4.0,Lenovo 15.6 Intel Core i5-8250U AMD Radeon 535 2 GB 1 TB HDD 2169.0 2519.0
+158,Aspire 3 A315-53-34CE,4.0,Acer 15.6 Intel Core i3-7020U Intel Graphics 620 1 TB HDD 1239.0 1549.0
+159,VivoBook 15 X540UA,5.0,Asus 15.6 Intel Core i5-8250U Intel HD Graphics 620 1 TB HDD 1599.0 1899.0
+160,IdeaPad 330-15IGM,3.6,Lenovo 14.0 Intel Core i3-8130U Intel HD Graphics 620 2 TB HDD 1589.0 1889.0
+161,IdeaPad 330S-14IKB,3.3,Lenovo 14.0 Intel Core i5-8250U Intel UHD Graphics 620 1 TB HDD 1849.0 2099.0
+162,IdeaPad 330S-14IKB,3.3,Lenovo 14.0 Intel Core i3-8130U Intel HD Graphics 620 2 TB HDD 1699.0 1889.0
+163,14-bp101nx,5.0,HP 14.0 Intel Core i5-8250U AMD Radeon 530 2 GB 1 TB HDD 2519.0 2519.0
+164,MacBook Pro (Retina),4.5,Apple 15.4 Intel Core i7 Quad Core Intel Iris Pro Graphics 256 GB SSD 8189.0 8189.0
+165,14-ck0008nx,0.0,HP 14.0 Intel Celeron N4000 Intel HD Graphics 600 500 GB HDD 1369.0 1369.0
+166,15-da0007nx,5.0,HP 15.6 Intel Core i3-7020U Intel HD Graphics 620 1 TB HDD 1779.0 1779.0
+167,15-da0035nx,3.0,HP 15.6 Intel Core i7-8550U Intel UHD Graphics 620 1 TB HDD 2299.0 2299.0
+168,MacBook Pro (Retina + Touch Bar),0.0,Apple 13.3 Intel Core i5 Dual Core Intel Iris Plus Graphics 650 512 GB SSD 8499.0 8499.0
+169,Pavilion 15-cs0003nx,0.0,HP 15.6 Intel Core i7-8550U NVIDIA GeForce MX150 4 GB 128 GB M.2 SSD/1 TB HDD 3779.0 3779.0
+170,15-bs007nx,0.0,HP 15.6 Intel Core i3-6006U Intel HD Graphics 520 1 TB HDD 1779.0 1779.0
+171,IdeaPad 320-15IKBRA,0.0,Lenovo 15.6 Intel Core i7-8550U AMD Radeon 530 4 GB 2 TB HDD 3149.0 3149.0
+172,ENVY 13-ad004nx,0.0,HP 13.3 Intel Core i7-7500U NVIDIA GeForce MX150 2 GB 1 TB PCIe NVMe M.2 SSD 6609.0 6609.0
+173,Pavilion 14-bf102nx,0.0,HP 14.0 Intel Core i5-8250U NVIDIA GeForce GT 940MX 2 GB 1 TB HDD 3039.0 3039.0
+174,Inspiron 15 3567,0.0,Dell 15.6 Intel Core i7-7500U AMD Radeon R5-M340 2 GB 1 TB HDD 2749.0 2749.0
+175,Inspiron 15 5567,0.0,Dell 15.6 Intel Core i7-7500U AMD Radeon R7-M445 4 GB 1 TB HDD 3249.0 3249.0
+176,ENVY 13-ad001nx,4.1,HP 13.3 Intel Core i5-7200U Intel Graphics 620 256 GB PCIe NVMe M.2 SSD 3989.0 3989.0
+177,ENVY 17-ae003nx,0.0,HP 17.3 Intel Core i7-7500U NVIDIA GeForce 940MX 4 GB 256 GB NVMe M.2 SSD/1 TB HDD 6199.0 6199.0
+178,15-bs006nx,3.6,HP 15.6 Intel Core i3-6006U Intel HD Graphics 520 1 TB HDD 1779.0 1779.0
+179,XPS 15,0.0,Dell 15.6 Intel Core i7-8750H NVIDIA GeForce GTX 1050 Ti 4 GB 512 GB PCIe NVMe M.2 SSD 8999.0 8999.0
+180,Aspire A315-51,3.9,Acer 15.6 Intel Core i3-6006U Intel HD Graphics 520 500 GB HDD 1649.0 1649.0
+181,Pavilion 13-an0000nx,0.0,HP 13.3 Intel Core i5-8265U Intel UHD Graphics 620 128 GB PCIe NVMe M.2 SSD 3149.0 3149.0
+182,XPS 13 9360,0.0,Dell 13.3 Intel Core i5-8250U Intel UHD Graphics 620 256 GB PCIe NVMe M.2 SSD 4399.0 4399.0
+183,Aspire 5 A515-51G,3.8,Acer 15.6 Intel Core i7-8550U NVIDIA GeForce MX130 2 GB 2 TB HDD 2999.0 2999.0
+184,ENVY 13-ad101nx,4.0,HP 13.3 Intel Core i7-8550U NVIDIA GeForce MX150 2 GB 1 TB PCIe NVMe M.2 SSD 6719.0 6719.0
+185,Inspiron 15 5570,4.0,Dell 15.6 Intel Core i5-8250U AMD Radeon 530 2 GB 1 TB HDD 2939.0 2939.0
+186,Inspiron 15 3567,0.0,Dell 15.6 Intel Core i5-8250U AMD Radeon 520 2 GB 1 TB HDD 2549.0 2549.0
+187,IdeaPad 320-15IKBRA,4.2,Lenovo 15.6 Intel Core i5-8250U AMD Radeon 530 2 GB 1 TB HDD 2519.0 2519.0
+188,IdeaPad 320-14ISK,0.0,Lenovo 14.0 Intel Core i3-6006U Intel GMA HD 1 TB HDD 1779.0 1779.0
+189,ZenBook UX430UN Ultrabook,0.0,Asus 14.0 Intel Core i5-8250U NVIDIA GeForce MX150 2 GB 256 GB SSD 3779.0 3779.0
+190,Pavilion 15-cc006nx,0.0,HP 15.6 Intel Core i7-7500U NVIDIA GeForce 940MX 2 GB 8 GB Cache Flash /1 TB HDD 3459.0 3459.0
+191,Inspiron 15 3567,0.0,Dell 15.6 Intel Core i3-6006U Intel GMA HD 1 TB HDD 1889.0 1889.0
+192,Inspiron 15 3567,0.0,Dell 15.6 Intel Core i5-7200U AMD Radeon R5-M340 2 GB 1 TB HDD 2469.0 2469.0
+193,ENVY 13-ab000nx,0.0,HP 13.3 Intel Core i5-7200U Intel GMA HD 256 GB PCIe NVMe M.2 SSD 3779.0 3779.0
+194,MacBook Pro (Retina + Touch Bar),0.0,Apple 13.3 Intel Core i5 Dual Core Intel Iris Graphics 550 256 GB SSD 7768.95 7768.95
+195,,0.0,HP 15.6 Intel Core i5-7200U AMD Radeon 520 2 GB 1 TB HDD 2419.0 2419.0
+196,Pavilion 15-cc002nx,0.0,HP 15.6 Intel Core i7-7500U NVIDIA GeForce 940MX 2 GB 8 GB Cache Flash /1 TB HDD 3459.0 3459.0
+197,MacBook Pro (Retina),4.6,Apple 13.3 Intel Core i5 Dual Core Intel Iris Plus Graphics 640 256 GB SSD 6499.0 6499.0
+198,ENVY 13-ad100nx,4.0,HP 13.3 Intel Core i7-8550U Intel HD Graphics 620 512 GB NVMe M.2 SSD 4829.0 4829.0
+199,Inspiron 15 3567,3.3,Dell 15.6 Intel Core i5-7200U AMD Radeon R5-M430 2 GB 1 TB HDD 2249.0 2249.0
+200,IdeaPad 320-15IKBRN,3.8,Lenovo 15.6 Intel Core i5-8250U Intel GMA HD 1 TB HDD 2099.0 2099.0
+201,MateBook D,4.0,Huawei 15.6 Intel Core i7-8550U NVIDIA GeForce MX150 2 GB 128 GB SSD/1 TB HDD 3299.0 3299.0
+202,MacBook Pro (Retina + Touch Bar),0.0,Apple 15.4 Intel Core i7 6 Core Radeon Pro 555X GDDR5 4 GB 256 GB SSD 10199.0 10199.0
+203,MacBook Pro (Retina + Touch Bar),4.4,Apple 15.4 Intel Core i7 6 Core Radeon Pro 560X GDDR5 4 GB 512 GB SSD 11899.0 11899.0
+204,Inspiron 15 3576,0.0,Dell 15.6 Intel Core i5-8250U AMD Radeon 520 2 GB 1 TB HDD 2299.0 2299.0
